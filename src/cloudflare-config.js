@@ -1,1 +1,1 @@
-export default 'https://your-api.workers.dev';
+export default 'https://sharedbank-switch.e-commerce-sriramtpsiog.workers.dev';
